@@ -1,7 +1,16 @@
 # nova_Module_Navbar
-Module for Nova framework
 
-Install:
-1. Copy folder in App\Modules
-2. Activate him (App\Config\Modules)
-3. Edit used Template
+- [Общая информация](#about)
+- [Зависимости](#requirements)
+- [Установка Модуля](#installation)
+    - [Manual](#manual)
+- [Документация](#documentation)
+
+## Что это ?
+
+
+> **Заметка:** igned to work with a MySQL database using PDO.
+
+```
+$code;
+```
