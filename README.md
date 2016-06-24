@@ -1,15 +1,15 @@
 # nova_Module_Navbar
 
-- [Общая информация](#about)
-- [Зависимости](#requirements)
-- [Установка Модуля](#installation)
-    - [Manual](#manual)
-- [Документация](#documentation)
+- [Общая информация](#Что-это)
+- [Зависимости](#Зависимости)
+- [Установка Модуля](#Установка-Модуля)
+    - [Ручная](#Ручная)
+- [Документация](#Документация)
 
-## Что это ?
+### Что это ?
 
 
-> **Заметка:** igned to work with a MySQL database using PDO.
+> *Заметка:* igned to work with a MySQL database using PDO.
 
 ```
 $code;
